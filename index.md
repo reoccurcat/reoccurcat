@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <h1 align="center">Hi 👋, I'm reoccurcat</h1>
 <h3 align="center">A mainly Python and JS coder from the US</h3>
 
