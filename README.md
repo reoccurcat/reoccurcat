@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reoccurcat&label=Profile%20views&color=0e75b6&style=flat" alt="reoccurcat" /> </p>
 
-- 🔭 I’m currently working on [my team's Discord bot, FreeDiscord](freediscord.ga)
+- 🔭 I’m currently working on [my Discord bot, FreeDiscord](freediscord.ga)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C**
 
