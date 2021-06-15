@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reoccurcat&label=Profile%20views&color=0e75b6&style=flat" alt="reoccurcat" /> </p>
 
-- 🔭 I’m currently working on [my Discord bot, FreeDiscord](freediscord.ga)
+- 🔭 I’m currently working on [my Discord bot, FreeDiscord](https://freediscord.ga)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C**
 
-- 👯 I’m looking to collaborate on [FreeDiscord](freediscord.ga)
+- 👯 I’m looking to collaborate on [FreeDiscord](https://freediscord.ga)
 
 - 💬 Ask me about **Python, Javascript**
 
-- 📫 How to reach me **reoccuringcat@protonmail.com**
+- 📫 How to reach me: **reoccuringcat@protonmail.com**
 
-- ⚡ Fun fact **I lost my first ProtonMail account's password 😅 so I had to make a new email**
+- ⚡ Fun fact: **I have about 1 billion email addresses**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
