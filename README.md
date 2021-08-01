@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reoccurcat&label=Profile%20views&color=0e75b6&style=flat" alt="reoccurcat" /> </p>
 
-- 🔭 I’m currently working on [my Discord bot, FreeDiscord](https://fd.reoccur.tech)
+- 🔭 I’m currently working on [my Discord bot, reoccurcord](https://rc.reoccur.tech)
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C**
 
-- 👯 I’m looking to collaborate on [FreeDiscord](https://fd.reoccur.tech)
+- 👯 I’m looking to collaborate on [reoccurcord](https://rc.reoccur.tech)
 
 - 💬 Ask me about **Python, Javascript**
 
