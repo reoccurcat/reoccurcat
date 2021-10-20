@@ -16,8 +16,4 @@
 <a href="https://www.youtube.com/channel/UClaS86_4nOR5NgUJR5P5BEg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/youtube.svg" alt="reoccurcat" height="30" width="40" /></a>
 </p>
 
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=reoccurcat&theme=tokyonight&show_icons=true&locale=en" alt="reoccurcat's github stats" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoccurcat&layout=compact" alt="reoccurcat's top langs" /></p>
-
+![Metrics](https://github.com/reoccurcat/reoccurcat/blob/main/github-metrics.svg)
