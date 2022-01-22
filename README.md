@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=reoccurcat&color=4B0082&labelColor=ffffff)
 
-- 🔭 I’m currently working on [my team's Discord bot, AutumnCord](https://github.com/reoccurdevs/autumncord.ts)
+- 🔭 I’m currently working on [my Discord bot, AutumnCord](https://github.com/reoccurcat/AutumnCord)
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C++**
-- 👯 I’m looking to collaborate on [AutumnCord](https://github.com/reoccurdevs/autumncord.ts)
+- 👯 I’m looking to collaborate on [AutumnCord](https://github.com/reoccurcat/AutumnCord)
 - 💬 Ask me about **Python, JavaScript, TypeScript**
 - 📫 How to reach me: **reoccurcat@gmail.com**
-- ⚡ Fun fact: **I have about 1 billion email addresses**
+- ⚡ Fun fact: **I really don't know what to do with my life lmao**
 
 Connect with me:
 
