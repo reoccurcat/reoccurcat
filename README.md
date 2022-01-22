@@ -23,4 +23,5 @@ Connect with me:
 ![Oculus](https://img.shields.io/badge/Oculus-reoccurcat-violet?logo=oculus&style=flat&labelColor=black)
 
 ![Metrics](https://github.com/reoccurcat/reoccurcat/blob/main/github-metrics.svg)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 ![](https://hit.yhype.me/github/profile?user_id=84601340)
