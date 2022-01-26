@@ -9,6 +9,14 @@
 - 📫 How to reach me: **reoccurcat@gmail.com**
 - ⚡ Fun fact: **I really don't know what to do with my life lmao**
 
+My setup:
+
+[![Gentoo Linux](https://img.shields.io/badge/Linux-Gentoo-blueviolet?labelColor=black&logo=gentoo)](https://www.gentoo.org)
+![Intel i7-3770](https://img.shields.io/badge/i7-3770-blue?labelColor=black&logo=intel)
+![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
+
+
+
 Connect with me:
 
 [![YouTube](https://img.shields.io/badge/YouTube-reoccurcat-indigo?logo=youtube&style=flat&labelColor=black)](https://www.youtube.com/channel/UClaS86_4nOR5NgUJR5P5BEg)
