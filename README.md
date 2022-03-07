@@ -11,9 +11,10 @@
 
 My setup:
 
-[![Gentoo Linux](https://img.shields.io/badge/Linux-Gentoo-blueviolet?labelColor=black&logo=gentoo)](https://www.gentoo.org)
-![Intel i7-3770](https://img.shields.io/badge/i7-3770-blue?labelColor=black&logo=intel)
+[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
+![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
 ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
+![Intel HD Graphics 4000](https://img.shields.io/badge/HD%20Graphics-4000-purple?labelColor=black&logo=intel)
 
 Connect with me:
 
@@ -22,7 +23,7 @@ Connect with me:
 [![Spotify](https://img.shields.io/badge/Spotify-reoccurcat-darkgreen?logo=spotify&style=flat&labelColor=black)](https://open.spotify.com/user/g6say1fgp6gqqi453ecqtt8hr)
 [![Last.fm](https://img.shields.io/badge/Last.fm-reoccurcat-darkred?logo=last.fm&style=flat&labelColor=black)](https://last.fm/user/reoccurcat)
 [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-darkred?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-Cat's%20Lounge-4e5d94?logo=discord&style=flat&labelColor=black)](https://discord.gg/yATc4DJ69R)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-cat's%20server%20<3-4e5d94?logo=discord&style=flat&labelColor=black)](https://discord.gg/rTC5N8XCQR)
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
 ![Xbox](https://img.shields.io/badge/Xbox-MyCatCondo-green?logo=xbox&style=flat&labelColor=black)
 [![Twitch](https://img.shields.io/badge/Twitch-reoccurcat-purple?logo=twitch&style=flat&labelColor=black)](https://www.twitch.tv/reoccurcat)
