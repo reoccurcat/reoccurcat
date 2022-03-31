@@ -13,14 +13,13 @@
 
 Desktop:
 
-[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
+[![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-green?labelColor=black&logo=opensuse)](https://opensuse.org)
 ![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
 ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
-![Intel HD Graphics 4000](https://img.shields.io/badge/HD%20Graphics-4000-purple?labelColor=black&logo=intel)
 
 Laptop:
 
-[![Fedora 35](https://img.shields.io/badge/Fedora-35-blue?labelColor=black&logo=fedora)](https://fedoraproject.org/)
+[![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-green?labelColor=black&logo=opensuse)](https://opensuse.org)
 ![Intel i5-8250U](https://img.shields.io/badge/i5-8250U-blueviolet?labelColor=black&logo=intel)
 ![Intel UHD Graphics 620](https://img.shields.io/badge/UHD%20Graphics-620-purple?labelColor=black&logo=intel)
 
