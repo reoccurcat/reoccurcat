@@ -13,7 +13,7 @@
 
 Desktop:
 
-[![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-green?labelColor=black&logo=opensuse)](https://opensuse.org)
+[![Arch Linux](https://img.shields.io/badge/Arch-Linux-blue?labelColor=black&logo=archlinux)](https://archlinux.org)
 ![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
 ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
 
