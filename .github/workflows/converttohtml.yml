@@ -36,10 +36,23 @@ jobs:
         with:
           text: ${{ steps.getreadme.outputs.readme }}
      
-      - name: save HTML
-        uses: DamianReeves/write-file-action@v1.0
+      - name: create and commit files
+        id: commit
+        run: |
+          echo ${{ steps.getreadme.outputs.readme }} > index.html
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          if [-z "$(git status --porcelain)"]; then
+             echo "::set-output name=push::false"
+          else
+             git commit -m "auto-build html" -a
+             echo "::set-output name=push::true"
+          fi
+        shell: bash
+      
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
         with:
-          path: ${{ env.home}}/index.html
-          contents: |
-            echo ${{ steps.tohtml.outputs.html }}
-          write-mode: overwrite
+           github_token: ${{ secrets.GITHUB_TOKEN }}
