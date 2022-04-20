@@ -39,16 +39,13 @@ jobs:
       - name: create and commit files
         id: commit
         run: |
-          echo ${{ steps.getreadme.outputs.readme }} > index.html
+          rm index.html
+          echo "${{ steps.getreadme.outputs.readme }}" > index.html
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add --all
-          if [-z "$(git status --porcelain)"]; then
-             echo "::set-output name=push::false"
-          else
-             git commit -m "auto-build html" -a
-             echo "::set-output name=push::true"
-          fi
+          git commit -m "auto-build html" -a
+          echo "::set-output name=push::true"
         shell: bash
       
       - name: Push changes
