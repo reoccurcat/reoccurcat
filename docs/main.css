@@ -3,8 +3,7 @@
 	animation-duration: 3s;
 	animation-iteration-count: infinite;
 	animation-timing-function: ease-in-out;
-    position: fixed;
-    top:-100%; right:-100%; left:-100%; bottom:-100%;
+	position: relative;
     margin:auto;
     z-index:0;
 }
@@ -17,4 +16,24 @@
 
 body {
 	background-color: black;
+}
+
+.header1 {
+   position:fixed;
+   left:0px;
+   bottom:325px;
+   height:30px;
+   width:100%;
+   color: white;
+   background-color: black;
+}
+
+.copyright {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   color: white;
+   background-color: black;
 }
