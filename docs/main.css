@@ -1,11 +1,22 @@
+@font-face {
+   font-family: "comfortaaRegular";
+   src: url("./assets/fonts/comfortaa/Comfortaa-Regular.ttf");
+}
+
+#wrapper {
+   margin: 0 auto;
+ }
+
 .floating {
-	animation-name: floating;
-	animation-duration: 3s;
-	animation-iteration-count: infinite;
-	animation-timing-function: ease-in-out;
-	position: relative;
-    margin:auto;
-    z-index:0;
+   animation-name: floating;
+   animation-duration: 3s;
+   animation-iteration-count: infinite;
+   animation-timing-function: ease-in-out;
+   margin: auto;
+   width: 50%;
+   padding: 10px;
+   top: 50px;
+   position: relative
 }
 
 @keyframes floating {
@@ -19,21 +30,22 @@ body {
 }
 
 .header1 {
-   position:fixed;
-   left:0px;
-   bottom:325px;
-   height:30px;
-   width:100%;
+   color: white;
+   position: relative;
+   top: 125px;
+}
+
+.copyright {
+   position: fixed;
+   left: 0px;
+   bottom: 0px;
+   height: 30px;
+   width: 100%;
    color: white;
    background-color: black;
 }
 
-.copyright {
-   position:fixed;
-   left:0px;
-   bottom:0px;
-   height:30px;
-   width:100%;
-   color: white;
-   background-color: black;
+.page {
+   background-color:black; 
+   font-family: comfortaaRegular
 }
