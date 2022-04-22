@@ -48,8 +48,8 @@ body {
 .socials {
    position: fixed;
    left: 0px;
-   bottom: 0px;
-   height: 30px;
+   bottom: 10px;
+   height: 20px;
    width: 100%;
    color: white;
    background-color: black;
