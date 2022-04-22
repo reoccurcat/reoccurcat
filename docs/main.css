@@ -32,10 +32,20 @@ body {
 .header1 {
    color: white;
    position: relative;
-   top: 125px;
+   top: 100px;
 }
 
 .copyright {
+   position: fixed;
+   left: 0px;
+   bottom: 20px;
+   height: 30px;
+   width: 100%;
+   color: white;
+   background-color: black;
+}
+
+.socials {
    position: fixed;
    left: 0px;
    bottom: 0px;
