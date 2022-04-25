@@ -15,14 +15,16 @@
     <script src="assets/js/main.js"></script>
 </head>
 
-<body onload="checkRedirect(); getRandomImage()">
+<body onload="checkRedirect(); getRandomImage(); typeWriter()">
     <div class="floating" id="randImage" style=
             "height: 250px; width: 250px;
             background: rgba(128, 0, 128, 0);
             padding: 5px">
     </div>
     <div class="header1">
-        <h3><center>this website is under construction!</center></h3>
+        <a class="typewrite" data-period="5000" data-type='[ "this website is under construction.", "check back soon!" ]'>
+            <h3 class="wrap"><center></center></h3>
+        </a>
     </div>
     <div class="footer">
         <div class="copyright">

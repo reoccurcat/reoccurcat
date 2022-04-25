@@ -3,6 +3,8 @@
    src: url("./assets/fonts/comfortaa/Comfortaa-Regular.ttf");
 }
 
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
 #wrapper {
    margin: 0 auto;
  }
@@ -33,6 +35,7 @@ body {
    color: white;
    position: relative;
    top: 100px;
+
 }
 
 .copyright {
