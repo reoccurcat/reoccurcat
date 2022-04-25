@@ -25,7 +25,7 @@ TxtType.prototype.tick = function() {
     this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    this.el.innerHTML = '<h3 class="wrap"><center>'+this.txt+'</center></h3>';
+    this.el.innerHTML = '<center><h3 class="wrap">'+this.txt+'</h3></center>';
 
     var that = this;
     var delta = 200 - Math.random() * 100;
@@ -60,10 +60,6 @@ function getRandomImage() {
     document.getElementById("randImage").innerHTML = (`<a href="${url}"> <img src="assets/images/${img}" width=250px height=250px> </a>`)
 }
 
-var i = 0;
-var txt = 'Lorem ipsum typing effect!'; /* The text */
-var speed = 50; /* The speed/duration of the effect in milliseconds */
-
 function typeWriter() {
     var elements = document.getElementsByClassName('typewrite');
     for (var i=0; i<elements.length; i++) {
@@ -75,7 +71,6 @@ function typeWriter() {
     }
     // INJECT CSS
     var css = document.createElement("style");
-    css.type = "text/css";
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
     document.body.appendChild(css);
 }
