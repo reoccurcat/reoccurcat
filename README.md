@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C++**
 - 👯 I’m looking to collaborate on [AutumnCord](https://github.com/reoccurcat/AutumnCord)
 - 💬 Ask me about **Python, JavaScript, TypeScript**
-- 📫 How to reach me: **reoccurcat@gmail.com**
+- 📫 How to reach me: **cat@reoccur.xyz**
 - ⚡ Fun fact: **I really don't know what to do with my life lmao**
 
 #### My setup:
