@@ -13,7 +13,7 @@
 
 Desktop:
 
-[![Arch Linux](https://img.shields.io/badge/Arch-Linux-blue?labelColor=black&logo=archlinux)](https://archlinux.org)
+[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
 ![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
 ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
 
