@@ -10,21 +10,12 @@
  }
 
 .floating {
-   animation-name: floating;
-   animation-duration: 3s;
-   animation-iteration-count: infinite;
-   animation-timing-function: ease-in-out;
    margin: auto;
    width: 50%;
    padding: 10px;
    top: 50px;
-   position: relative
-}
-
-@keyframes floating {
-	0% { transform: translate(0, 0px); }
-	50% { transform: translate(0, 15px); }
-	100% { transform: translate(0, -0px); }
+   position: relative;
+   animation: fadeIn ease 2s, floating;
 }
 
 body {
@@ -34,7 +25,7 @@ body {
 .header1 {
    color: white;
    position: relative;
-   top: 100px;
+   top: 80px;
    background-color: rgba(0, 0, 0, 0);
 
 }
@@ -82,3 +73,48 @@ body {
     top: 0;
     left: 0
 }
+ 
+ @keyframes fadeIn{
+   0% {
+     opacity:0;
+   }
+   100% {
+     opacity:1;
+   }
+ }
+ 
+ @-moz-keyframes fadeIn {
+   0% {
+     opacity:0;
+   }
+   100% {
+     opacity:1;
+   }
+ }
+ 
+ @-webkit-keyframes fadeIn {
+   0% {
+     opacity:0;
+   }
+   100% {
+     opacity:1;
+   }
+ }
+ 
+ @-o-keyframes fadeIn {
+   0% {
+     opacity:0;
+   }
+   100% {
+     opacity:1;
+   }
+ }
+ 
+ @-ms-keyframes fadeIn {
+   0% {
+     opacity:0;
+   }
+   100% {
+     opacity:1;
+   }
+ }
