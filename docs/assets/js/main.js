@@ -25,7 +25,7 @@ TxtType.prototype.tick = function() {
     this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    if (this.txt[0] !== undefined && this.txt[0] === "c") {this.el.innerHTML = '<center><h3 class="wrap"><a href="https://reoccur.xyz/abt">'+this.txt+'</a></h3></center>';}
+    if (this.txt[0] !== undefined && this.txt[0] === "c") {this.el.innerHTML = '<center><h3 class="wrap"><a href="./abt/">'+this.txt+'</a></h3></center>';}
     else {this.el.innerHTML = '<center><h3 class="wrap">'+this.txt+'</h3></center>';}
 
     var that = this;
