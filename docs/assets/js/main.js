@@ -25,7 +25,8 @@ TxtType.prototype.tick = function() {
     this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    this.el.innerHTML = '<center><h3 class="wrap">'+this.txt+'</h3></center>';
+    if (this.txt[0] !== undefined && this.txt[0] === "c") {this.el.innerHTML = '<center><h3 class="wrap"><a href="./abt/">'+this.txt+'</a></h3></center>';}
+    else {this.el.innerHTML = '<center><h3 class="wrap">'+this.txt+'</h3></center>';}
 
     var that = this;
     var delta = 200 - Math.random() * 100;
@@ -54,7 +55,6 @@ function checkRedirect() {
 
 function getRandomImage() {
     var num = Math.floor( Math.random() * 2);
-    console.log(num)
     var img = ImageArray[num];
     var url = URLArray[num]
     document.getElementById("randImage").innerHTML = (`<a href="${url}"> <img src="assets/images/${img}" width=250px height=250px> </a>`)
@@ -74,3 +74,5 @@ function typeWriter() {
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
     document.body.appendChild(css);
 }
+
+
