@@ -1,4 +1,4 @@
-# This is to dissect the carrd website
+# This is to sanitize the carrd website
 with open("./index.html", "r") as f:
     file = f.read()
 while True:
