@@ -2,9 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=reoccurcat&color=4B0082&labelColor=ffffff)
 
-- 🔭 I’m currently working on [my Discord bot, AutumnCord](https://github.com/reoccurcat/AutumnCord)
+- 🔭 I’m currently working on **nothing intensively**
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C++, GoLang**
-- 👯 I’m looking to collaborate on [AutumnCord](https://github.com/reoccurcat/AutumnCord)
+- 👯 I’m looking to collaborate on **not really much right now**
 - 💬 Ask me about **Python, JavaScript, TypeScript, GoLang**
 - 📫 How to reach me: **cat@reoccur.xyz**
 - ⚡ Fun fact: **I really don't know what to do with my life lmao**
