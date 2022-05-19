@@ -8,4 +8,4 @@ while True:
         break
 with open("./index.html", "w") as f:
     f.write(file)
-print("done.")
+    
