@@ -2,16 +2,13 @@
 
 I'm a hobby developer that really doesn't know what to code right now lol
 
-<<<<<<< HEAD
-### My main computers:
-=======
-- 🔭 I’m currently working on **nothing intensively**
-- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C++, GoLang**
-- 👯 I’m looking to collaborate on **not really much right now**
-- 💬 Ask me about **Python, JavaScript, TypeScript, GoLang**
-- 📫 How to reach me: **cat@reoccur.xyz**
-- ⚡ Fun fact: **I really don't know what to do with my life lmao**
->>>>>>> 10ea36c4992634ecd927fa78daae877e1e4afb9e
+🔭 I’m currently working on **nothing intensively**
+🌱 I’m currently learning **Python, JavaScript, HTML, CSS, C++, GoLang**
+👯 I’m looking to collaborate on **not really much right now**
+💬 Ask me about **Python, JavaScript, TypeScript, GoLang**
+📫 How to reach me: **cat@reoccur.xyz**
+⚡ Fun fact: **I really don't know what to do with my life lmao**
+
 
 #### Desktop:
 
