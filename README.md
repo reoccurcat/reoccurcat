@@ -22,7 +22,7 @@ Fun fact: **I really don't know what to do with my life lol**
 
 #### Laptop:
 
-[![Windows 10](https://img.shields.io/badge/Windows-10-blue?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu-Server-orange?labelColor=black&logo=ubuntu)](https://ubuntu.com/download/server)
 ![Intel i5-8250U](https://img.shields.io/badge/i5-8250U-blueviolet?labelColor=black&logo=intel)
 ![Intel UHD Graphics 620](https://img.shields.io/badge/UHD%20Graphics-620-purple?labelColor=black&logo=intel)
 
