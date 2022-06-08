@@ -1,4 +1,4 @@
-let num = 5
+let num = 3
 
 function countDown() {
     let doc

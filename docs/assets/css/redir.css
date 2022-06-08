@@ -2,10 +2,8 @@
     font-family: "comfortaaRegular";
     src: url("../fonts/comfortaa/Comfortaa-Regular.ttf");
  }
- 
- @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
- 
- #wrapper {
+
+#wrapper {
     margin: 0 auto;
   }
  
@@ -38,19 +36,19 @@ body {
 
 @keyframes gradient {
 	0% {
-		background-position: 0% 50%;
+		background-position: 0 50%;
 	}
 	50% {
 		background-position: 100% 50%;
 	}
 	100% {
-		background-position: 0% 50%;
+		background-position: 0 50%;
 	}
 }
 
 .copyright {
     position: fixed;
-    left: 0px;
+    left: 0;
     bottom: 5px;
     height: 30px;
     width: 100%;
@@ -60,5 +58,5 @@ body {
  }
  
  .page {
-    font-family: comfortaaRegular
+     font-family: comfortaaRegular, serif
  }

@@ -3,8 +3,6 @@
    src: url("../fonts/comfortaa/Comfortaa-Regular.ttf");
 }
 
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
-
 #wrapper {
    margin: 0 auto;
  }
@@ -32,7 +30,7 @@ body {
 
 .copyright {
    position: fixed;
-   left: 0px;
+   left: 0;
    bottom: 20px;
    height: 30px;
    width: 100%;
@@ -43,7 +41,7 @@ body {
 
 .socials {
    position: fixed;
-   left: 0px;
+   left: 0;
    bottom: 10px;
    height: 20px;
    width: 100%;
@@ -52,7 +50,7 @@ body {
 }
 
 .page {
-   font-family: comfortaaRegular
+    font-family: comfortaaRegular, serif
 }
 
 #particles-js canvas {
@@ -126,7 +124,8 @@ body {
 .rainbow_text_animated {
   background: linear-gradient(to right, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
   -webkit-background-clip: text;
-  background-clip: text;
+    /*noinspection CssInvalidPropertyValue*/
+    background-clip: text;
   color: transparent;
   animation: rainbow_animation 6s ease-in-out infinite;
   background-size: 400% 100%;
