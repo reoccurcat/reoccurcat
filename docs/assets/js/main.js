@@ -1,11 +1,11 @@
-ImageArray = new Array();
+ImageArray = [];
 ImageArray[0] = 'avatar.png';
 ImageArray[1] = 'cat.png';
-URLArray = new Array();
+URLArray = [];
 URLArray[0] = 'https://madokamagicausa.com';
 URLArray[1] = 'https://genrandom.com/cats';
 
-var TxtType = function(el, toRotate, period) {
+const TxtType = function (el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
     this.loopNum = 0;
@@ -16,8 +16,8 @@ var TxtType = function(el, toRotate, period) {
 };
 
 TxtType.prototype.tick = function() {
-    var i = this.loopNum % this.toRotate.length;
-    var fullTxt = this.toRotate[i];
+    const i = this.loopNum % this.toRotate.length;
+    const fullTxt = this.toRotate[i];
 
     if (this.isDeleting) {
     this.txt = fullTxt.substring(0, this.txt.length - 1);
@@ -25,11 +25,11 @@ TxtType.prototype.tick = function() {
     this.txt = fullTxt.substring(0, this.txt.length + 1);
     }
 
-    if (this.txt[0] !== undefined && this.txt[0] === "c") {this.el.innerHTML = '<center><h3 class="wrap"><a href="./abt/">'+this.txt+'</a></h3></center>';}
-    else {this.el.innerHTML = '<center><h3 class="wrap">'+this.txt+'</h3></center>';}
+    if (this.txt[0] !== undefined && this.txt[0] === "c") {this.el.innerHTML = '<div style="text-align: center;"><h3 class="wrap"><a href="./abt/">'+this.txt+'</a></h3></div>';}
+    else {this.el.innerHTML = '<div style="text-align: center;"><h3 class="wrap">'+this.txt+'</h3></div>';}
 
-    var that = this;
-    var delta = 200 - Math.random() * 100;
+    const that = this;
+    let delta = 200 - Math.random() * 100;
 
     if (this.isDeleting) { delta /= 2; }
 
@@ -48,37 +48,34 @@ TxtType.prototype.tick = function() {
 };
 
 function checkRedirect() {
-    var num = Math.floor( Math.random() * 420);
+    const num = Math.floor(Math.random() * 420);
     if (num === 69) {location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';}
     console.log(`a surprise is locked behind a number.\nthe number is however not this number.\nthe number for this visit is ${num}.`)
 }
 
 function getRandomImage() {
-    var num = Math.floor( Math.random() * 2);
-    var img = ImageArray[num];
-    var url = URLArray[num]
-    document.getElementById("randImage").innerHTML = (`<a href="${url}"> <img src="assets/images/${img}" width=250px height=250px> </a>`)
+    const num = Math.floor(Math.random() * 2);
+    // noinspection JSUnusedAssignment
+    let img = ImageArray[num];
+    // noinspection JSUnusedAssignment
+    let url = URLArray[num];
+    // Forcing cat image for the time being
+    img = "circleavatar.png"
+    url = "https://genrandom.com/cats"
+    document.getElementById("randImage").innerHTML = (`<a href="${url}"> <img src="assets/images/${img}" width=250px height=250px alt=""> </a>`)
 }
 
 function typeWriter() {
-    var elements = document.getElementsByClassName('typewrite');
-    for (var i=0; i<elements.length; i++) {
-        var toRotate = elements[i].getAttribute('data-type');
-        var period = elements[i].getAttribute('data-period');
+    const elements = document.getElementsByClassName('typewrite');
+    for (let i=0; i<elements.length; i++) {
+        const toRotate = elements[i].getAttribute('data-type');
+        const period = elements[i].getAttribute('data-period');
         if (toRotate) {
           new TxtType(elements[i], JSON.parse(toRotate), period);
         }
     }
     // INJECT CSS
-    var css = document.createElement("style");
+    const css = document.createElement("style");
     css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
     document.body.appendChild(css);
-}
-
-function rainbowText() {
-    $('.txt').html(function(i, html) {
-        var chars = $.trim(html).split("");
-      
-        return '<span>' + chars.join('</span><span>') + '</span>';
-      });
 }

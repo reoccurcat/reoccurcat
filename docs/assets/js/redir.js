@@ -1,8 +1,8 @@
 let num = 5
 
 function countDown() {
-    let doc = document.getElementById("msg").innerHTML
-    doc = (document.getElementById("msg").innerHTML).replace(num, num-1) 
+    let doc
+    doc = (document.getElementById("msg").innerHTML).replace(num, String(num-1))
     document.getElementById("msg").innerHTML = doc
     num -= 1
 }
