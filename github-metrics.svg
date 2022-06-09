@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1255" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            649 Commits
+                            650 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    95.2k added, 8.75k removed
+                                    87.3k added, 5.96k removed
                                 </div>
                             </section>
                             <section>
@@ -328,6 +328,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">reoccurcat/AutumnCord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cef97d5</div>
+                                        <div class="message">move to env files for variables</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">reoccurcat/reoccurcat</span>
                                     </div>
@@ -403,118 +423,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 60 commits in
-                                        <span class="repo">reoccurcat/RedditVideoMakerBot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf094fa</div>
-                                        <div class="message">Create LICENSE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1462b1d</div>
-                                        <div class="message">Merge pull request #336 from elebumm/Freebie---PATCHES
-
-Grammar-ized contributing.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f56c89</div>
-                                        <div class="message">Grammar-ized contributing.md
-
-Fixed grammar and misinterpretations in `contributing.md`, i.e.,  Discord channel -&gt; Discord Server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46b77cb</div>
-                                        <div class="message">Edit .env.template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5c6e8f</div>
-                                        <div class="message">Added a .env variable to change the save location of the final video</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12e967a</div>
-                                        <div class="message">Merge branch 'elebumm:master' into master</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20f087e</div>
-                                        <div class="message">Merge conficts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#733210a</div>
-                                        <div class="message">Merge branch 'filter-comments-by-length' of https://github.com/DomizianoScarcelli/RedditVideoMakerBot into filter-comments-by-length</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06b1b00</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/master' into filter-comments-by-length</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ec2a49</div>
-                                        <div class="message">UI changes
-
-this mostly adds a nice banner to the terminal when main.py is run</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4631d26</div>
-                                        <div class="message">tts links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f55dda1</div>
-                                        <div class="message">tts will no longer read aloud link
-
-There is an often issue where when commentators link to another site the tts will read out the link in its entirety. This PR uses Regex to filter that stuff out.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b539369</div>
-                                        <div class="message">Merge branch 'master' into filter-comments-by-length</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b16193</div>
-                                        <div class="message">Typo correction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c8b344</div>
-                                        <div class="message">Typo correction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cfda32</div>
-                                        <div class="message">Comments can be filtered by lenght</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da7237e</div>
-                                        <div class="message">Merge pull request #26 from taraschuiko/patch-1
-
-Added playwright install command to readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cef15c3</div>
-                                        <div class="message">Merge branch '1.1' into patch-1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d1d06b</div>
-                                        <div class="message">Used python instead of npx to install playwright</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f6eec7</div>
-                                        <div class="message">Added playwright install command to readme</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2022, 22:45:21 (timezone America/Chicago) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 8 Jun 2022, 23:17:59 (timezone America/Chicago) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
