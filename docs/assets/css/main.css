@@ -28,6 +28,14 @@ body {
 
 }
 
+.header2 {
+    color: white;
+    position: relative;
+    top: 80px;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
 .copyright {
    position: fixed;
    left: 0;
@@ -139,4 +147,16 @@ body {
   50% {
       background-position: 100% 0;
   }
+}
+
+button {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    /*optional*/
+    font-family: comfortaaRegular, serif;
+    /*input has OS specific font-family*/
+    color: #069;
+    text-decoration: underline;
+    cursor: pointer;
 }
