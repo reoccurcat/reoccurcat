@@ -44,7 +44,7 @@ Fun fact: **I really don't know what to do with my life lol**
 [![Spotify](https://img.shields.io/badge/Spotify-reoccurcat-darkgreen?logo=spotify&style=flat&labelColor=black)](https://open.spotify.com/user/g6say1fgp6gqqi453ecqtt8hr)
 [![Last.fm](https://img.shields.io/badge/Last.fm-reoccurcat-darkred?logo=last.fm&style=flat&labelColor=black)](https://last.fm/user/reoccurcat)
 [![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-cat's%20cafe-4e5d94?logo=discord&style=flat&labelColor=black)](https://discord.gg/vc8xsTs66C)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-cat's%20cafe-4e5d94?logo=discord&style=flat&labelColor=black)](https://discord.gg/BfpRSNYxAB)
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
 ![Xbox](https://img.shields.io/badge/Xbox-reoccurcat-green?logo=xbox&style=flat&labelColor=black)
 [![Twitch](https://img.shields.io/badge/Twitch-reoccurcat-purple?logo=twitch&style=flat&labelColor=black)](https://www.twitch.tv/reoccurcat)
