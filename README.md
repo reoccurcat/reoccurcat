@@ -16,6 +16,12 @@ Fun fact: **I really don't know what to do with my life lol**
 
 #### Main System Specs
 
+#### Laptop:
+
+[![macOS Ventura](https://img.shields.io/badge/macOS-Ventura-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
+![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
+![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
+
 ##### Desktop:
 
 [![reviOS 10](https://img.shields.io/badge/reviOS%2010-23.01-red?labelColor=black&logo=windows)](https://www.microsoft.com/en-us/windows/)
