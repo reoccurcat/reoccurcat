@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1086 Commits
+                            1091 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -335,8 +335,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e9a60d</div>
-                                        <div class="message">mistake in changing status</div>
+                                        <div class="sha">#2268000</div>
+                                        <div class="message">comment out mimu responder</div>
                                     </div>
                                 </div>
                             </section>
@@ -355,8 +355,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a10679f</div>
-                                        <div class="message">set bot status to dnd as opposed to online</div>
+                                        <div class="sha">#fc3c417</div>
+                                        <div class="message">update keep.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -375,11 +375,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b268bb</div>
-                                        <div class="message">remove all references of .keep.py
-update requirements.txt
-update main.py to change channel name to actual member count
-misc changes as recommended by pycharm to main.py</div>
+                                        <div class="sha">#ca4e813</div>
+                                        <div class="message">moved token back to main.py</div>
                                     </div>
                                 </div>
                             </section>
@@ -398,8 +395,9 @@ misc changes as recommended by pycharm to main.py</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ce912f6</div>
-                                        <div class="message">keep.py</div>
+                                        <div class="sha">#00276a8</div>
+                                        <div class="message">added .mc command
+fixed positional arg error</div>
                                     </div>
                                 </div>
                             </section>
@@ -412,14 +410,14 @@ misc changes as recommended by pycharm to main.py</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">reoccurcat/dsc-yandere</span>
+                                        <span class="repo">reoccurcat/dsc-aishite</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b93dd54</div>
-                                        <div class="message">updates yet i forgot what they were <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /></div>
+                                        <div class="sha">#1109888</div>
+                                        <div class="message">added .mc command</div>
                                     </div>
                                 </div>
                             </section>
@@ -429,7 +427,7 @@ misc changes as recommended by pycharm to main.py</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2023, 22:01:39 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Apr 2023, 23:01:21 (timezone America/Chicago) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
