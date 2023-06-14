@@ -18,7 +18,7 @@ Fun fact: **I really don't know what to do with my life lol**
 
 #### Laptop:
 
-[![macOS Ventura](https://img.shields.io/badge/macOS-Ventura-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
+[![macOS Ventura](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
 ![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
 ![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
 
