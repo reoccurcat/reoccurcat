@@ -38,7 +38,7 @@ Fun fact: **I really don't know what to do with my life lol**
 
 ##### Server:
 
-[![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-22.04.1%20LTS-orange?labelColor=black&logo=ubuntu)](https://ubuntu.com/download/server)
+[![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
 ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
 ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
 ![AMD ATI ES1000](https://img.shields.io/badge/ATI-ES1000-red?labelColor=black&logo=amd)
