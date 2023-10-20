@@ -1,58 +1,51 @@
-## Hi, I'm Hayden!
+hii, i'm hayden!
 
-I'm a hobby developer that really doesn't know what to code right now lol
+i'm a full stack web developer who sometimes freelances on stuff! 
 
-I’m  working on **my website and unified-weather**
+believe me, I couldn't tell you how my code works even though i made it...
 
-I’m learning **Python, JavaScript, HTML, CSS, C++, C#**
-
-I’m looking to collaborate on **nothing right now**
-
-Ask me about **Python, JavaScript, TypeScript, C++, C#, HTML, CSS, NodeJS**
-
-How to reach me: **meow@reoccur.cat**
-
-Fun fact: **I really don't know what to do with my life lol**
+| Languages | Utilities |
+|--|--|
+| ![NodeJS](https://img.shields.io/badge/NodeJS-darkgreen?labelColor=black&logo=node.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?labelColor=black&logo=typescript) | ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20Idea-blue?labelColor=black&logo=intellij-idea) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-teal?labelColor=black&logo=visual-studio-code) |
+| ![HTML](https://img.shields.io/badge/HTML-orange?labelColor=black&logo=html5) ![CSS](https://img.shields.io/badge/CSS-white?labelColor=black&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?labelColor=black&logo=javascript) | ![IntelliJ WebStorm](https://img.shields.io/badge/WebStorm-blue?labelColor=black&logo=webstorm) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-teal?labelColor=black&logo=visual-studio-code)
+| ![C/C#/C++](https://img.shields.io/badge/C%2FC%23%2FC%2B%2B-lightblue?labelColor=black&logo=c) ![.net](https://img.shields.io/badge/.NET-teal?labelColor=black&logo=.net) | ![CLion](https://img.shields.io/badge/CLion-blue?labelColor=black&logo=clion) ![Rider](https://img.shields.io/badge/JetBrains%20Rider-teal?labelColor=black&logo=rider)
+| ![Python](https://img.shields.io/badge/Python-blue?labelColor=black&logo=python) | ![PyCharm](https://img.shields.io/badge/PyCharm-blue?labelColor=black&logo=pycharm) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-teal?labelColor=black&logo=visual-studio-code)
 
 #### Main System Specs
 
-##### Laptop:
+* ##### Laptop:
 
-[![macOS Ventura](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
-![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
-![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
+  [![macOS Ventura](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
+  ![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
+  ![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
 
+* ##### Desktop:
+
+  [![ReviOS 11](https://img.shields.io/badge/ReviOS-11-red?labelColor=black&logo=windows)](https://revi.cc)
+  ![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
+  ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
 
 #### Server Specs
 
-##### Desktop:
+* ##### Server:
 
-[![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
-![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
-
-##### Server:
-
-[![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
-![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
-![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
-![AMD ATI ES1000](https://img.shields.io/badge/ATI-ES1000-red?labelColor=black&logo=amd)
-![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
+  [![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
+  ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
+  ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
+  ![AMD ATI ES1000](https://img.shields.io/badge/ATI-ES1000-red?labelColor=black&logo=amd)
 
 ### How can I connect with you?
 
-[![YouTube](https://img.shields.io/badge/YouTube-reoccurcat-indigo?logo=youtube&style=flat&labelColor=black)](https://www.youtube.com/channel/UClaS86_4nOR5NgUJR5P5BEg)
-[![Steam](https://img.shields.io/badge/Steam-reoccurcat-black?logo=Steam&style=flat&labelColor=black)](https://steamcommunity.com/id/reoccurcat)
-[![Spotify](https://img.shields.io/badge/Spotify-reoccurcat-darkgreen?logo=spotify&style=flat&labelColor=black)](https://open.spotify.com/user/g6say1fgp6gqqi453ecqtt8hr)
-[![Last.fm](https://img.shields.io/badge/Last.fm-reoccurcat-darkred?logo=last.fm&style=flat&labelColor=black)](https://last.fm/user/reoccurcat)
-[![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)
+[![Discord](https://lanyard.cnrad.dev/api/834894431861473340?bg=5c1fcf)](https://discord.com/users/834894431861473340)
+
+[![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)  or  [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
+
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
-![Xbox](https://img.shields.io/badge/Xbox-reoccurcat-green?logo=xbox&style=flat&labelColor=black)
-[![Twitch](https://img.shields.io/badge/Twitch-reoccurcat-purple?logo=twitch&style=flat&labelColor=black)](https://www.twitch.tv/reoccurcat)
-![Oculus](https://img.shields.io/badge/Oculus-reoccurcat-violet?logo=oculus&style=flat&labelColor=black)
 ![Element](https://img.shields.io/badge/Element-@reoccurcat:catgirl.cloud-darkgreen?logo=element&style=flat&labelColor=black)
+![Revolt](https://img.shields.io/badge/Revolt-%40reoccurcat%233891-red?logo=messenger&style=flat&labelColor=black)
 
 ### What do you program in?
-I program in GoLang, C#, Python, JavaScript, and most web languages. Feel free to ask me about any of these languages.
+I program in C, C#, Python, JavaScript, Typescript, and most web languages. Feel free to ask me about any of these.
 
 ![Metrics](./github-metrics.svg)
 
