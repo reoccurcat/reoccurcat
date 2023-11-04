@@ -2,7 +2,7 @@ hii, i'm hayden!
 
 i'm a full stack web developer who sometimes freelances on stuff! 
 
-believe me, i couldn't tell you how my code works even though i made it...
+believe me, i couldn't tell you how some of my code works even though i made it...
 
 | Languages | Utilities |
 |--|--|
