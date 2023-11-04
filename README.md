@@ -27,7 +27,13 @@ believe me, i couldn't tell you how my code works even though i made it...
 
 #### Server Specs
 
-* ##### Server:
+* ##### Server 1:
+  
+  [![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
+  ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon-E5--2670%20v2-blueviolet?labelColor=black&logo=intel)
+  ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon-E5--2670%20v2-blueviolet?labelColor=black&logo=intel)
+
+* ##### Server 2:
 
   [![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
   ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
