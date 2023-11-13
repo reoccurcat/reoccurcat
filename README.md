@@ -44,11 +44,13 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 [![Discord](https://lanyard.cnrad.dev/api/834894431861473340?bg=5c1fcf)](https://discord.com/users/834894431861473340)
 
-[![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)  or  [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)  **or**  [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
 
+[![catkey](https://img.shields.io/badge/catkey-@hayden@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@hayden)
+[![catkey](https://img.shields.io/badge/catkey-@admin@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@admin)
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
 ![Element](https://img.shields.io/badge/Element-@reoccurcat:catgirl.cloud-darkgreen?logo=element&style=flat&labelColor=black)
-![Revolt](https://img.shields.io/badge/Revolt-%40reoccurcat%233891-red?logo=messenger&style=flat&labelColor=black)
+![Revolt](https://img.shields.io/badge/Revolt-%40reoccurcat%233891-red?logo=revoltdotchat&style=flat&labelColor=black)
 
 ### What do you program in?
 I program in C, C#, Python, JavaScript, Typescript, and most web languages. Feel free to ask me about any of these.
