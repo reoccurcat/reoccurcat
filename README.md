@@ -1,6 +1,6 @@
 hii, i'm hayden!
 
-i'm a full stack web developer who sometimes freelances on stuff! 
+i'm a full stack web developer who usually freelances on stuff! 
 
 believe me, i couldn't tell you how some of my code works even though i made it...
 
@@ -15,7 +15,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 * ##### Laptop:
 
-  [![macOS Ventura](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/ventura/)
+  [![macOS Sonoma](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/sonoma/)
   ![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
   ![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
 
@@ -44,7 +44,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 [![Discord](https://lanyard.cnrad.dev/api/834894431861473340?bg=5c1fcf)](https://discord.com/users/834894431861473340)
 
-[![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-blue?logo=icloud&style=flat&labelColor=black)](mailto:meow@reoccur.cat)  **or**  [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cat@reo.moe-purple?logo=protonmail&style=flat&labelColor=black)](mailto:cat@reo.moe), [![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-purple?logo=protonmail&style=flat&labelColor=black)](mailto:meow@reoccur.cat), **or** [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
 
 [![catkey](https://img.shields.io/badge/catkey-@hayden@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@hayden)
 [![catkey](https://img.shields.io/badge/catkey-@admin@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@admin)
