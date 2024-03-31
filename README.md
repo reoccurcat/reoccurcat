@@ -1,6 +1,6 @@
 hii, i'm hayden!
 
-i'm a full stack web developer who usually freelances on stuff! 
+i'm a full stack web and software developer who usually freelances on stuff! 
 
 believe me, i couldn't tell you how some of my code works even though i made it...
 
@@ -19,10 +19,10 @@ believe me, i couldn't tell you how some of my code works even though i made it.
   ![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
   ![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
 
-* ##### Desktop:
+* ##### _Virtual_ Desktop (partially server tasks too):
 
-  [![ReviOS 11](https://img.shields.io/badge/ReviOS-11-red?labelColor=black&logo=windows)](https://revi.cc)
-  ![Intel i7-3770](https://img.shields.io/badge/i7-3770-blueviolet?labelColor=black&logo=intel)
+  [![Windows 10](https://img.shields.io/badge/Windows%2010-IoT%20LTSC-blue?labelColor=black&logo=windows)](https://windows.com)
+  ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon%20E5--2670%20v2----->%2016%20threads-blueviolet?labelColor=black&logo=intel)
   ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
 
 #### Server Specs
@@ -33,7 +33,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
   ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon-E5--2670%20v2-blueviolet?labelColor=black&logo=intel)
   ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon-E5--2670%20v2-blueviolet?labelColor=black&logo=intel)
 
-* ##### Server 2:
+* ##### Server 2 (inactive for now due to heat):
 
   [![Proxmox VE 7.4](https://img.shields.io/badge/Proxmox%20VE-7.4-orange?labelColor=black&logo=proxmox)](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
   ![Intel Xeon L5410](https://img.shields.io/badge/Xeon-L5410-blueviolet?labelColor=black&logo=intel)
@@ -46,8 +46,6 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 [![Email](https://img.shields.io/badge/Email-cat@reo.moe-purple?logo=protonmail&style=flat&labelColor=black)](mailto:cat@reo.moe), [![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-purple?logo=protonmail&style=flat&labelColor=black)](mailto:meow@reoccur.cat), **or** [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
 
-[![catkey](https://img.shields.io/badge/catkey-@hayden@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@hayden)
-[![catkey](https://img.shields.io/badge/catkey-@admin@key.reo.moe-purple?logo=misskey&style=flat&labelColor=black)](https://key.reo.moe/@admin)
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
 ![Element](https://img.shields.io/badge/Element-@reoccurcat:catgirl.cloud-darkgreen?logo=element&style=flat&labelColor=black)
 ![Revolt](https://img.shields.io/badge/Revolt-%40reoccurcat%233891-red?logo=revoltdotchat&style=flat&labelColor=black)
