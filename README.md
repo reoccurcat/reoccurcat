@@ -13,16 +13,16 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 #### Main System Specs
 
-* ##### Laptop:
+* ##### Laptop :
 
-  [![macOS Sonoma](https://img.shields.io/badge/macOS-Sonoma-purple?labelColor=black&logo=macos)](https://www.apple.com/macos/sonoma/)
+  [![Windows 11](https://img.shields.io/badge/Windows%2011-IoT%20LTSC-blue?labelColor=black&logo=windows)](https://windows.com)
   ![Intel i7 6-core](https://img.shields.io/badge/i7-6%20core-blueviolet?labelColor=black&logo=intel)
   ![AMD Radeon Pro 5300M 4GB](https://img.shields.io/badge/Radeon%20Pro-5300M%204GB-red?labelColor=black&logo=amd)
 
-* ##### _Virtual_ Desktop (partially server tasks too):
+* ##### Desktop (building a computer eta November ^^) :
 
-  [![Windows 10](https://img.shields.io/badge/Windows%2010-IoT%20LTSC-blue?labelColor=black&logo=windows)](https://windows.com)
-  ![Intel Xeon E5-2670 v2](https://img.shields.io/badge/Xeon%20E5--2670%20v2----->%2016%20threads-blueviolet?labelColor=black&logo=intel)
+  [![Windows 11](https://img.shields.io/badge/Windows%2011-IoT%20LTSC-blue?labelColor=black&logo=windows)](https://windows.com)
+  ![Intel i7 4-core](https://img.shields.io/badge/i7%203rd%20gen-blueviolet?labelColor=black&logo=intel)
   ![nVidia GTX 1050 Ti](https://img.shields.io/badge/GTX-1050%20Ti-green?labelColor=black&logo=nvidia)
 
 #### Server Specs
