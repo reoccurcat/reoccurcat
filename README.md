@@ -10,6 +10,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 | ![HTML](https://img.shields.io/badge/HTML-orange?labelColor=black&logo=html5) ![CSS](https://img.shields.io/badge/CSS-white?labelColor=black&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?labelColor=black&logo=javascript) | ![IntelliJ WebStorm](https://img.shields.io/badge/WebStorm-blue?labelColor=black&logo=webstorm) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-teal?labelColor=black&logo=visual-studio-code)
 | ![C/C#/C++](https://img.shields.io/badge/C%2FC%23%2FC%2B%2B-lightblue?labelColor=black&logo=c) ![.net](https://img.shields.io/badge/.NET-teal?labelColor=black&logo=.net) | ![CLion](https://img.shields.io/badge/CLion-blue?labelColor=black&logo=clion) ![Rider](https://img.shields.io/badge/JetBrains%20Rider-teal?labelColor=black&logo=rider)
 | ![Python](https://img.shields.io/badge/Python-blue?labelColor=black&logo=python) | ![PyCharm](https://img.shields.io/badge/PyCharm-blue?labelColor=black&logo=pycharm) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-teal?labelColor=black&logo=visual-studio-code)
+| ![Java](https://img.shields.io/badge/Java-orange?labelColor=black&logo=oracle) | ![Idea](https://img.shields.io/badge/Idea%20Ultimate-red?labelColor=black&logo=intellijidea)
 
 #### Main System Specs
 
@@ -51,7 +52,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 ![Revolt](https://img.shields.io/badge/Revolt-%40reoccurcat%233891-red?logo=revoltdotchat&style=flat&labelColor=black)
 
 ### What do you program in?
-I program in C, C#, Python, JavaScript, Typescript, and most web languages. Feel free to ask me about any of these.
+I program in C, C#, Python, Java, JavaScript, Typescript, and most web languages. Feel free to ask me about any of these.
 
 ![Metrics](./github-metrics.svg)
 
