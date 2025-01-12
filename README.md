@@ -16,10 +16,16 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 * ##### Desktop :
 
-  [![Windows 11](https://img.shields.io/badge/Windows%2011-IoT%20LTSC-blue?labelColor=black)](https://windows.com)
+  ###### Main OS
+  [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-Neo-purple?labelColor=black&logo=endeavouros)](https://endeavouros.com)
   ![Ryzen 9 7950X3D](https://img.shields.io/badge/Ryzen%209-7950X3D%2016%20core-red?labelColor=black&logo=amd)
   ![Radeon RX7900XT](https://img.shields.io/badge/Radeon-RX7900XT%2020GB-red?labelColor=black&logo=amd)
 
+  ###### KVM (GPU Passthrough)
+  [![Windows](https://img.shields.io/badge/Windows%2011-IoT%20LTSC-blue?labelColor=black)](https://windows.com)
+  ![Ryzen 9 7950X3D](https://img.shields.io/badge/Ryzen%209-7950X3D%208%20core-red?labelColor=black&logo=amd)
+  ![Radeon RX7900XT](https://img.shields.io/badge/Radeon-RX7900XT%2020GB-red?labelColor=black&logo=amd)
+  
 * ##### Laptop :
 
   [![Windows 11](https://img.shields.io/badge/Windows%2011-IoT%20LTSC-blue?labelColor=black)](https://windows.com)
