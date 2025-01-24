@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    535k added, 84k removed
+                                    48.3k added, 25.6k removed
                                 </div>
                             </section>
                             <section>
@@ -321,6 +321,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">EHT-2025/Website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c08874f</div>
+                                        <div class="message">next.js</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -476,205 +496,12 @@ Improve clickable images</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 34 commits in
-                                        <span class="repo">reoccurcat/SkyNX</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fac3f69</div>
-                                        <div class="message">compiling and running, just need to fix front end and logo bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c25452a</div>
-                                        <div class="message">Dah super duper update, WIP</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ae66ce</div>
-                                        <div class="message">Merge pull request #72 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/ansi_up-5.0.0
-
-Bump ansi_up from 4.0.4 to 5.0.0 in /SkyNX-Streamer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4553cf</div>
-                                        <div class="message">Merge pull request #85 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/NxStreamingService/bl-4.1.0
-
-Bump bl from 4.0.2 to 4.1.0 in /SkyNX-Streamer/NxStreamingService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#347a2fd</div>
-                                        <div class="message">Bump bl from 4.0.2 to 4.1.0 in /SkyNX-Streamer/NxStreamingService
-
-Bumps [bl](https://github.com/rvagg/bl) from 4.0.2 to 4.1.0.
-- [Release notes](https://github.com/rvagg/bl/releases)
-- [Commits](https://github.com/rvagg/bl/compare/v4.0.2...v4.1.0)
-
----
-updated-dependencies:
-- dependency-name: bl
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9fef9c</div>
-                                        <div class="message">Bump ansi_up from 4.0.4 to 5.0.0 in /SkyNX-Streamer
-
-Bumps [ansi_up](https://github.com/drudru/ansi_up) from 4.0.4 to 5.0.0.
-- [Release notes](https://github.com/drudru/ansi_up/releases)
-- [Commits](https://github.com/drudru/ansi_up/compare/v4.0.4...v5.0.0)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe596b2</div>
-                                        <div class="message">Merge pull request #63 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/NxStreamingService/ini-1.3.8
-
-Bump ini from 1.3.5 to 1.3.8 in /SkyNX-Streamer/NxStreamingService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6646dc5</div>
-                                        <div class="message">Bump ini from 1.3.5 to 1.3.8 in /SkyNX-Streamer/NxStreamingService
-
-Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
-- [Release notes](https://github.com/isaacs/ini/releases)
-- [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5b5007</div>
-                                        <div class="message">Merge pull request #77 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/lodash-4.17.21
-
-Bump lodash from 4.17.19 to 4.17.21 in /SkyNX-Streamer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b915a42</div>
-                                        <div class="message">Merge pull request #84 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/NxStreamingService/simple-get-3.1.1
-
-Bump simple-get from 3.1.0 to 3.1.1 in /SkyNX-Streamer/NxStreamingService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0405a6</div>
-                                        <div class="message">Merge pull request #82 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/electron-15.1.2
-
-Bump electron from 8.2.5 to 15.1.2 in /SkyNX-Streamer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c84ab7b</div>
-                                        <div class="message">Bump simple-get in /SkyNX-Streamer/NxStreamingService
-
-Bumps [simple-get](https://github.com/feross/simple-get) from 3.1.0 to 3.1.1.
-- [Release notes](https://github.com/feross/simple-get/releases)
-- [Commits](https://github.com/feross/simple-get/compare/v3.1.0...v3.1.1)
-
----
-updated-dependencies:
-- dependency-name: simple-get
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21df87d</div>
-                                        <div class="message">Merge pull request #78 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/NxStreamingService/ws-7.4.6
-
-Bump ws from 7.2.5 to 7.4.6 in /SkyNX-Streamer/NxStreamingService</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16c2854</div>
-                                        <div class="message">Merge pull request #79 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/normalize-url-4.5.1
-
-Bump normalize-url from 4.5.0 to 4.5.1 in /SkyNX-Streamer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#024d80e</div>
-                                        <div class="message">Bump electron from 8.2.5 to 15.1.2 in /SkyNX-Streamer
-
-Bumps [electron](https://github.com/electron/electron) from 8.2.5 to 15.1.2.
-- [Release notes](https://github.com/electron/electron/releases)
-- [Changelog](https://github.com/electron/electron/blob/main/docs/breaking-changes.md)
-- [Commits](https://github.com/electron/electron/compare/v8.2.5...v15.1.2)
-
----
-updated-dependencies:
-- dependency-name: electron
-  dependency-type: direct:production
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61dd6a2</div>
-                                        <div class="message">Bump normalize-url from 4.5.0 to 4.5.1 in /SkyNX-Streamer
-
-Bumps [normalize-url](https://github.com/sindresorhus/normalize-url) from 4.5.0 to 4.5.1.
-- [Release notes](https://github.com/sindresorhus/normalize-url/releases)
-- [Commits](https://github.com/sindresorhus/normalize-url/commits)
-
----
-updated-dependencies:
-- dependency-name: normalize-url
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b26f1fd</div>
-                                        <div class="message">Bump ws from 7.2.5 to 7.4.6 in /SkyNX-Streamer/NxStreamingService
-
-Bumps [ws](https://github.com/websockets/ws) from 7.2.5 to 7.4.6.
-- [Release notes](https://github.com/websockets/ws/releases)
-- [Commits](https://github.com/websockets/ws/compare/7.2.5...7.4.6)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6e32b3</div>
-                                        <div class="message">Bump lodash from 4.17.19 to 4.17.21 in /SkyNX-Streamer
-
-Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
-- [Release notes](https://github.com/lodash/lodash/releases)
-- [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c51448e</div>
-                                        <div class="message">Merge pull request #52 from DevL0rd/dependabot/npm_and_yarn/SkyNX-Streamer/lodash-4.17.19
-
-Bump lodash from 4.17.15 to 4.17.19 in /SkyNX-Streamer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e516fe9</div>
-                                        <div class="message">Bump lodash from 4.17.15 to 4.17.19 in /SkyNX-Streamer
-
-Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
-- [Release notes](https://github.com/lodash/lodash/releases)
-- [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2025, 05:01:11 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2025, 06:01:26 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
