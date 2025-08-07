@@ -43,8 +43,6 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 ### How can I connect with you?
 
-[![Discord](https://lanyard.cnrad.dev/api/834894431861473340?bg=5c1fcf)](https://discord.com/users/834894431861473340)
-
 [![Email](https://img.shields.io/badge/Email-cat@reo.moe-purple?logo=protonmail&style=flat&labelColor=black)](mailto:cat@reo.moe), [![Email](https://img.shields.io/badge/Email-meow@reoccur.cat-purple?logo=protonmail&style=flat&labelColor=black)](mailto:meow@reoccur.cat), **or** [![Email](https://img.shields.io/badge/Email-reoccurcat@gmail.com-blue?logo=gmail&style=flat&labelColor=black)](mailto:reoccurcat@gmail.com)
 
 [![Reddit](https://img.shields.io/badge/Reddit-u/reoccurcat-FF4500?logo=reddit&style=flat&labelColor=black)](https://www.reddit.com/user/reoccurcat/)
