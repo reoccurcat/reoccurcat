@@ -1,4 +1,4 @@
-hii, i'm hayden!
+hi, i'm hayden!
 
 i'm a full stack web and software developer who usually freelances on stuff! 
 
@@ -16,7 +16,7 @@ believe me, i couldn't tell you how some of my code works even though i made it.
 
 * ##### Desktop :
 
-  [![Windows](https://img.shields.io/badge/Windows%2011-Insider%20Enterprise-blue?labelColor=black)](https://windows.com)
+  [![Arch](https://img.shields.io/badge/Arch-btw-blue?labelColor=black&logo=archlinux)](https://archlinux.org)
   ![Ryzen 9 7950X3D](https://img.shields.io/badge/Ryzen%209-7950X3D%2016%20core-red?labelColor=black&logo=amd)
   ![Radeon RX7900XT](https://img.shields.io/badge/Radeon-RX7900XT%2020GB-red?labelColor=black&logo=amd)
   
