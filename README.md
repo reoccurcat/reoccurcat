@@ -2,7 +2,9 @@
 
 **IT Infrastructure & Cybersecurity Professional** | High School Senior & IT Intern
 
-I manage(d) 800+ endpoints, servers, and network infrastructure at my local high school while (currently) running a production-grade homelab with ESXi virtualization, Kubernetes clusters, and GitOps workflows. I also conduct security research and bug bounty hunting, following responsible disclosure practices.
+I manage(d) 800+ endpoints, servers, and network infrastructure at my local high school while (currently) running a production-grade homelab with ESXi virtualization, Kubernetes clusters, and GitOps workflows. I also conduct security research and bug bounty hunting, following responsible disclosure practices. 
+
+I prioritize security as a systems property, not a bolt-on feature.
 
 Currently preparing for cybersecurity studies at UIUC while building real-world experience in enterprise infrastructure management and application security.
 
@@ -18,7 +20,7 @@ Currently preparing for cybersecurity studies at UIUC while building real-world 
 **Security Research**
 - Bug bounty hunting with responsible disclosure
 - Vulnerability assessment and security testing
-- Discovered critical vulnerabilities in production systems (exposed credentials, database access)
+- Discovered and responsibly disclosed critical vulnerabilities in production systems (credential exposure, unauthorized database access)
 - Network security and penetration testing
 
 **Development**
@@ -44,7 +46,7 @@ Currently preparing for cybersecurity studies at UIUC while building real-world 
 
 **Desktop** 
 
-- [![NixOS](https://img.shields.io/badge/NixOS-25.11-blue?labelColor=black&logo=nixos)](https://archlinux.org)
+- [![NixOS](https://img.shields.io/badge/NixOS-25.11-blue?labelColor=black&logo=nixos)](https://nixos.org)
 - AMD Ryzen 9 7950X3D (16c/32t)
 - Radeon RX7900XT 20GB
 
@@ -74,7 +76,7 @@ Currently preparing for cybersecurity studies at UIUC while building real-world 
 
 ---
 
-*Illinois State Scholar | 4.45 GPA | Pursuing Cybersecurity PhD track*
+*Illinois State Scholar | 4.45 GPA | Planning an academic track toward a Cybersecurity PhD*
 
 ![Metrics](./github-metrics.svg)
 
