@@ -40,7 +40,7 @@ Currently preparing for cybersecurity studies at UIUC while building real-world 
 | **Security & Auth** | ![Authentik](https://img.shields.io/badge/Authentik-red?labelColor=black&logo=authentik) ![cert--manager](https://img.shields.io/badge/cert--manager-purple?labelColor=black&logo=letsencrypt) ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?labelColor=black&logo=cloudflare) |
 | **Monitoring & Observability** | ![Grafana](https://img.shields.io/badge/Grafana-orange?labelColor=black&logo=grafana) ![Prometheus](https://img.shields.io/badge/Prometheus-red?labelColor=black&logo=prometheus) |
 | **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?labelColor=black&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-red?labelColor=black&logo=redis) ![MariaDB](https://img.shields.io/badge/MariaDB-blue?labelColor=black&logo=mariadb) |
-| **Tools & IDEs** | ![JetBrains](https://img.shields.io/badge/JetBrains%20IDEs-black?labelColor=black&logo=jetbrains) ![VSCode](https://img.shields.io/badge/VSCode-teal?labelColor=black&logo=visual-studio-code) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-blue?labelColor=black&logo=archlinux) |
+| **Tools & IDEs** | ![JetBrains](https://img.shields.io/badge/JetBrains%20IDEs-black?labelColor=black&logo=jetbrains) ![VSCode](https://img.shields.io/badge/VSCode-teal?labelColor=black&logo=visual-studio-code) [![NixOS](https://img.shields.io/badge/NixOS-25.11-blue?labelColor=black&logo=nixos)](https://nixos.org) |
 
 ## Current Systems
 
